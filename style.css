@@ -1,0 +1,33 @@
+h1{
+    color:orange;
+    font-family:sans-serif;
+}
+h6{
+    color:red;
+    font-family:fantasy;
+}
+p{
+    color:green;
+    font-family:cursive;
+}
+
+ul{
+    list-style-type:square;
+}
+   
+   ol{
+       list-style-type:upper-latin;
+   } 
+
+a{
+    font-family:Helvetica,sans-serif;
+    text-decoration:none;
+    background-color:aquamarine;
+    padding:5px;
+    
+}
+   
+   a:hover{
+       background-color:aqua;
+       color:#ffffff;
+   } 
